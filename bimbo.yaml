@@ -1,0 +1,7 @@
+site:
+  title: Archer's Archive
+  tabName: Archer's Archive
+  url: Archer.archive
+  authorName: Archer
+contentDefaults:
+  template: default.html
